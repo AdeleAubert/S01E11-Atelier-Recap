@@ -5,11 +5,11 @@
 
 [Accueil](https://link-url-here.org) - [Projets](https://github.com/AdeleAubert/S01E11-Atelier-Recap/blob/main/projets.md) - [Cv](https://link-url-here.org) - [Contact](https://link-url-here.org)
 
-## Présentation
-
+##  Contact
 ---
-blablabla
+N'hésitez pas une seule seconde, contactez-moi !
+[📬 john.doe@example.com](https://link-url-here.org)
+📞 06 06 06 06 06
+[👔 Linkedin](https://link-url-here.org)
+[🐦 Twitter](https://link-url-here.org)
 
-___
-
-© 2022 - John Doe - [Me contacter](https://link-url-here.org)

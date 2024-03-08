@@ -3,7 +3,7 @@
 ---
 *Développeur web junior*
 
-[Accueil](https://link-url-here.org) - [Projets](https://link-url-here.org) - [Cv](https://link-url-here.org) - [Contact](https://link-url-here.org) [Read_me](https://github.com/AdeleAubert/S01E11-Atelier-Recap/blob/main/README.md)
+[Accueil](https://link-url-here.org) - [Projets](https://link-url-here.org) - [Cv](https://link-url-here.org) - [Contact](https://link-url-here.org) [Read_me] - (https://github.com/AdeleAubert/S01E11-Atelier-Recap/blob/main/README.md)
 
 ## Mes projets
 ---

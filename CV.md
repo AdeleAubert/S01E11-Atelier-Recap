@@ -4,12 +4,26 @@
 *Développeur web junior*
 
 [Accueil](https://link-url-here.org) - [Projets](https://github.com/AdeleAubert/S01E11-Atelier-Recap/blob/main/projets.md) - [Cv](https://link-url-here.org) - [Contact](https://link-url-here.org)
-
-## Présentation
-
+## CV
 ---
-blablabla
+**John Doe**
+256 avenue du web
+48000 Saint-Pierre-Le-Jeune
+[john.doe@example.com](https://link-url-here.org)
+###### Expériences
+* 2022 - blabla
+* 2020 - blabla
+* 2019 - blabla
+
+###### Formation
+* 2016 - blabla
+* 2015 - blabla
+* 2013 - blabla
+
+###### Autres
+* Permis B
+* Escalade
+* Randonnée
 
 ___
-
 © 2022 - John Doe - [Me contacter](https://link-url-here.org)
